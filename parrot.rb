@@ -3,3 +3,5 @@
 def parrot("Squawk!")
   puts "love"
 end
+
+parrot
